@@ -38,7 +38,7 @@ def cityreader(cities=[]):
     # `cities` list
 
     # open csv and read file
-    with open("C:\\lambda\\cs\\week1\\challenge1\\src\\cityreader\\cities.csv") as us_cities:
+    with open("cities.csv") as us_cities:
         '''
         with open("cities.csv") as us_cities:
         works only when you are running the code on teh cmd using 'python <filename>'
